@@ -20,7 +20,7 @@ public class PlantPlacesController {
 	
 	/**
 	 *
-	 *Handle the /start endpoint
+	 *Handle the / endpoint
 	 *@return
 	 */
 	
